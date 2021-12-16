@@ -1,2 +1,3 @@
 # CRUD_Recyclerview
 recyclerview with the properties of having edit delete, update and delete options ... along with submit and display options as well
+// same app like debugging test app so, there is no need of adding that to the github here...
